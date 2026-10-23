@@ -1,0 +1,20 @@
+# npm / node
+node_modules/
+*.log
+npm-debug.log*
+
+# 本地临时 / 备份
+*.bak
+*.bak-*
+*.orig.bak
+temp/
+tmp/
+
+# Windows
+Thumbs.db
+Desktop.ini
+*.tmp
+
+# 编辑器
+.vscode/
+.idea/

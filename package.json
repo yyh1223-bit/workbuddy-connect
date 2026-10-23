@@ -1,0 +1,7 @@
+# workbuddy-connect
+
+本地整合仓库：把 DSH 桌面版实装的 `dsh-workbuddy-connect@0.7.9` 整理为可独立发布的仓库，
+含上游快照、本地增强补丁、桌面版接入/升级脚本与文档。
+
+- 上游：https://github.com/corrinehu/dsh-workbuddy-connect
+- 当前快照：0.7.9（对应 DSH 内核 0.2.1-rc.2）
